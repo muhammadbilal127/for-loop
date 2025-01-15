@@ -5,8 +5,8 @@ var cities = [
     "Sahiwal", "Dera Ghazi Khan", "Mirpur Khas", "Chiniot", "Okara"
   ];
   
-  for (var i = 0; i > cities.length; i++) {
-    if (cities[i] === "Islamabad") {alert("islamabad is the cleanist city");
+  for (var i = 0; i < cities.length; i++) {
+    if (cities[i] === "Islamabad") {alert("islamabad is the cleanist city in the pakistan");
     }
   }
   
