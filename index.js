@@ -6,7 +6,7 @@ var cities = [
   ];
   
   for (var i = 0; i < cities.length; i++) {
-    if (cities[i] === "Islamabad") {alert("islamabad is the cleanist city in the pakistan");
+    if (cities[i] === "Islamabad") {console.log("islamabad is the cleanist city in the pakistan");
     }
   }
   
